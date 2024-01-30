@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivo Gabriel Goes Correia</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Correia</h1>
 <h3 align="center">I am a dedicated student and a technology enthusiast!</h3>
 
 - 🔭 I’m currently working on **Android App**
