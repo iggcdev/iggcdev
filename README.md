@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gabriel Correia</h1>
 <h3 align="center">I am a dedicated student and a technology enthusiast!</h3>
 
-- 🔭 I’m currently working on **Android App**
+- 🔭 I’m currently working on **Restfull API's**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with **Android development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iggcdev](https://github.com/iggcdev)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **iggcdev@gmail.com**
 
